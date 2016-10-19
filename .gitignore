@@ -1,0 +1,14 @@
+logs
+*.log
+
+pids
+*.pid
+*.seed
+
+target
+
+# Idea
+*.iml
+.idea/
+*.ipr
+*.iws
